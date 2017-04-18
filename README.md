@@ -1,6 +1,6 @@
 ## Library Dynamic
 Creating a dynamic linked library. <br />
-dynamic loading and unloading with dlopen.
+Dynamic loading and unloading with dlopen.
 
 
 ### Technologies
